@@ -6,12 +6,17 @@
 
 body {
     font-family: Manrope, sans-serif;
+}
+
+.main{
+    display: inline-block;
+    width: 95vw;
 
 }
 
 .login{
     text-align: center;
-    width: fit-content;
+    /* width: fit-content; */
     margin: auto;
 }
 
@@ -75,3 +80,4 @@ button{
     margin-top: 20px;
     text-align: center;
 }
+
