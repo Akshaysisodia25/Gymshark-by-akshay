@@ -275,7 +275,7 @@ td a:hover{
 @media (max-width:600px){
   .tags{margin-left:20px;font-size:16px;}
 
-  .nlm{display:none;} /* hide table header on phones */
+  .nlm{display:none;} 
 
   .ph1 img,.ph2 img,.ph3 img{width:90%;}
 
@@ -286,3 +286,4 @@ td a:hover{
 
   .inst img{width:90%;}
 }
+
